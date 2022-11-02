@@ -9,13 +9,13 @@ Data set consist of 4 different tables: 1) Calling Data 2) Enrolment Data 3) ID 
 Task: Design a Dashboard with the following: 
 1) KPI box with :-
   
-• Total Revenue
+  • Total Revenue
 
-• Total Leads
+  • Total Leads
 
-• Conversion ratio :- It’s defined as the number of enrolments per 100 leads 
+  • Conversion ratio :- It’s defined as the number of enrolments per 100 leads 
 
-• Best performer – Counsellor with highest revenue. 
+  • Best performer – Counsellor with highest revenue. 
  
 2) Top N marketing source (UTM Source) representing total number of leads and respective conversion 
 ratio in the same chart. 
@@ -27,11 +27,11 @@ chart.
  
 5) Following filters must be used:
 
-a. Filter to select the Course 
+   a. Filter to select the Course 
 
-b. Filter to select the Month & Year.
+   b. Filter to select the Month & Year.
 
-c. Filter to select the counsellor Name. 
+   c. Filter to select the counsellor Name. 
 
 You can view my dashboard on my tableau public link
 https://public.tableau.com/app/profile/sourangshu.choudhary6157/viz/SalesDashboard_16673132182020/Dashboard1
