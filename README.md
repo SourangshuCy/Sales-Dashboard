@@ -23,7 +23,9 @@ chart.
  
 5) Following filters must be used:
 a. Filter to select the Course 
-b. Filter to select the Month & Year. 
+
+b. Filter to select the Month & Year.
+
 c. Filter to select the counsellor Name. 
 
 You can view my dashboard on my tableau public link
